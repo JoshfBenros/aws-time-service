@@ -1,0 +1,6 @@
+Flask
+# means the project depends on the external python package called flask
+# this does not install or import flask into the code
+
+# production WSGI server used to serve the Flask app on EC2 instead of Flask's development server
+gunicorn
